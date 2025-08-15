@@ -19,6 +19,7 @@ suitable for appliances.
 ## Table of Content
 
 + [Tools & Materials](/tools_materials.md)
++ [How to Use a Multimeter](https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter)
 + Step-by-Step Guide
   + [Oscillation](/oscillation.md)
   + [Amplification](/amplification.md)
